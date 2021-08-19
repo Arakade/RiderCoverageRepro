@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RiderCovLib1", "RiderCovLib1\RiderCovLib1.csproj", "{1633128C-75DB-4FFB-A73D-10930CF893BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RiderTestCov1Project1", "RiderTestCov1Project1\RiderTestCov1Project1.csproj", "{5A3A3564-6BCD-4E5A-AE19-4D3B3247D5D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1633128C-75DB-4FFB-A73D-10930CF893BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1633128C-75DB-4FFB-A73D-10930CF893BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1633128C-75DB-4FFB-A73D-10930CF893BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1633128C-75DB-4FFB-A73D-10930CF893BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A3A3564-6BCD-4E5A-AE19-4D3B3247D5D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A3A3564-6BCD-4E5A-AE19-4D3B3247D5D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A3A3564-6BCD-4E5A-AE19-4D3B3247D5D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A3A3564-6BCD-4E5A-AE19-4D3B3247D5D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
